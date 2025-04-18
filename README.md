@@ -1,6 +1,6 @@
 # Bank Wire Transfer Simulator
 
-This project is a frontend for a bank wire transfer simulator using Qt for the GUI and C++ for the backend. 
+This project is a frontend for a bank wire transfer simulator using Qt for the UI and C++ for the backend. 
 The frontend allows users to perform wire transfers between bank accounts. The backend uses hash tables, binary search trees, and priority queues. 
 
 
